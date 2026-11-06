@@ -1,0 +1,24 @@
+{
+  "number": 59,
+  "product_id": "JLZ-EDU-SK-047",
+  "chinese_name": "学生成长周报",
+  "english_name": "Student Growth Weekly Report",
+  "repository_name": "edu-student-growth-weekly-report",
+  "product_type": "Skill",
+  "category": "05 家校服务中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-student-growth-weekly-report-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "学生姓名或代号、学习目标、课堂/作业表现、进步证据、下一步计划",
+  "main_output": "成长周报、事实-进步-建议结构、可执行家庭任务和教师复核项",
+  "package_entries": [
+    "edu-student-growth-weekly-report/SKILL.md",
+    "edu-student-growth-weekly-report/references/DOMAIN_GUIDE.md",
+    "edu-student-growth-weekly-report/references/EXAMPLES.md",
+    "edu-student-growth-weekly-report/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

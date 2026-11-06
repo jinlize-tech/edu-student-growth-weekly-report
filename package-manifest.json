@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-047",
+  "repository_name": "edu-student-growth-weekly-report",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-student-growth-weekly-report-v1.0.0.zip",
+  "sha256": "542FB5986D93475C5EFA480C7C2A774E8CFC750E365986C5C41006AB0F19E395",
+  "bytes": 4846,
+  "entries": [
+    "edu-student-growth-weekly-report/SKILL.md",
+    "edu-student-growth-weekly-report/references/DOMAIN_GUIDE.md",
+    "edu-student-growth-weekly-report/references/EXAMPLES.md",
+    "edu-student-growth-weekly-report/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:41:01.4283307+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
