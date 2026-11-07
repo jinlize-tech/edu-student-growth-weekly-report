@@ -1,0 +1,8 @@
+{
+  "inputs": {
+    "学生姓名或代号": "已提供并确认：学生姓名或代号"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
